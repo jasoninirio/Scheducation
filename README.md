@@ -1,6 +1,6 @@
 # SCHEDUCATION - AN AGENDA APP FOR EC327
-- Take notes
-- Adds and Controls Events on a Calendar
+DEPENDENCIES:\
+https://github.com/patchthecode/JTAppleCalendar/wiki/Tutorials
 
 
 # Some Guidelines To Keep Things Organized:
