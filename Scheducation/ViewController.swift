@@ -6,6 +6,7 @@
 //  Copyright © 2019 Jason Inirio. All rights reserved.
 //
 
+import JTAppleCalendar
 import UIKit
 
 class ViewController: UIViewController {
@@ -14,7 +15,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
+class DateCell: JTAppleCell {
+    @IBOutlet var dateLabel: UILabel!
+    }
 
 }
 
