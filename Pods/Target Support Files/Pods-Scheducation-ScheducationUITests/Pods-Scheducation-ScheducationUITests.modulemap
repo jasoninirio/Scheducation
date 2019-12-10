@@ -1,0 +1,6 @@
+framework module Pods_Scheducation_ScheducationUITests {
+  umbrella header "Pods-Scheducation-ScheducationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
