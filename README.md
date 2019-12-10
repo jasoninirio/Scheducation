@@ -1,17 +1,9 @@
+# SCHEDUCATION - AN AGENDA APP FOR EC327
+- Take notes
+- Adds and Controls Events on a Calendar
+
+
 # Some Guidelines To Keep Things Organized:
-
-**DO NOT COMMIT TO MASTER UNTIL WE FINALIZE**
-This would help keep things clear and not mess up the files for others.
-
-### Make your own branch in the following format:
-``` 
-[first name] - [role] 
-```
-where the role can be ranging from design/clientside to backend depending on the role assigned during the meeting.
-**Roles**
-- Frontend
-- Designer
-- Backend
 
 ### When commiting keep in mind of some **flags**:
 - **Added** - Added new content
