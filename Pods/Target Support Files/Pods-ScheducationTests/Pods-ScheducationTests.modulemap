@@ -1,6 +1,0 @@
-framework module Pods_ScheducationTests {
-  umbrella header "Pods-ScheducationTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
