@@ -1,7 +1,7 @@
 # Scheducation
 [Youtube](link here)\
-**Team Name:** Scheducation\
-**Members:**\
+**Team Name:** Scheducation\\
+**Developers:**\
 Jason Inirio - jasonini@bu.edu\
 Talbot Taylor - talbotct@bu.edu\
 Carlos Ortiz - cartex10@bu.edu\
