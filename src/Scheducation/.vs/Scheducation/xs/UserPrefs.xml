@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{92791AD6-12B9-4ED5-A540-D8F689A02D27}|Default">
+  <MonoDevelop.Ide.ItemProperties.Scheducation.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Scheducation/MainPage.xaml">
+    <Files>
+      <File FileName="Scheducation/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Scheducation/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Scheducation FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Scheducation.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>

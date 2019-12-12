@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jason/Desktop/Scheducation/src/Scheducation/Scheducation.Android/Scheducation.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/jason/Desktop/Scheducation/src/Scheducation/Scheducation.Android/Scheducation.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jason/Desktop/Scheducation/src/Scheducation/Scheducation.Android/Scheducation.Android.csproj",
+        "projectName": "Scheducation.Android",
+        "projectPath": "/Users/jason/Desktop/Scheducation/src/Scheducation/Scheducation.Android/Scheducation.Android.csproj",
+        "packagesPath": "/Users/jason/.nuget/packages/",
+        "outputPath": "/Users/jason/Desktop/Scheducation/src/Scheducation/Scheducation.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/jason/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
