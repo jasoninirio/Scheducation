@@ -1,5 +1,5 @@
 # Scheducation
-[Youtube](link here)\
+
 **Team Name:** \
 Scheducation
 
