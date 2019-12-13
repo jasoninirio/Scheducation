@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{92791AD6-12B9-4ED5-A540-D8F689A02D27}|Default">
-  <MonoDevelop.Ide.ItemProperties.Scheducation.iOS FirstBuild="True" />
+﻿<Properties StartupConfiguration="{A1D9DEE9-B196-4F57-99F3-708683F077B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Scheducation.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.998AF531-4B94-4D53-99C8-BE2D1EDCB98D" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Scheducation/MainPage.xaml">
     <Files>
       <File FileName="Scheducation/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="Scheducation/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="Scheducation/MainPage.xaml" Line="7" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
