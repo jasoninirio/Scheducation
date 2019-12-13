@@ -1,0 +1,1 @@
+Look into iOS and Android directory for original source code, Scheducation directory will consist of **BOTH** directories' source codes as we integrate them into C++ and C# for a multiplatform framework.
