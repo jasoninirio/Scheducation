@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Scheducation</string>
+    <string name="go_to_calendar">Go to Calendar</string>
+    <string name="go_to_tasks">Tasks</string>
 </resources>

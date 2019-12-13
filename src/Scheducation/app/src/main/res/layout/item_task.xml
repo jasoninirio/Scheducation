@@ -19,6 +19,7 @@
         android:id = "@+id/task_delete"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:text = "Done" />
+        android:text = "Done"
+        android:onClick="deleteTask"/>
 
 </RelativeLayout>
