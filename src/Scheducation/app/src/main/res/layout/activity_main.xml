@@ -8,8 +8,17 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical"
+        android:onClick="gotoCalendar"
         android:text="@string/go_to_calendar"
         android:translationX="25sp"
-        android:translationY="25sp"
-        android:onClick="gotoCalendar"/>
+        android:translationY="25sp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="[ LOGO HERE ; this is the main menu ]"
+        android:textStyle="bold"
+        android:translationX="0sp"
+        android:translationY="65sp" />
 </LinearLayout>
