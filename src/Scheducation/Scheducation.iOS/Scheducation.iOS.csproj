@@ -123,6 +123,11 @@
     <PackageReference Include="Xamarin.Forms" Version="4.2.0.709249" />
     <PackageReference Include="Xamarin.Essentials" Version="1.2.0" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="misc\Logo Main 2.png" />
+    <BundleResource Include="misc\Logo Main.png" />
+    <BundleResource Include="misc\Final_Logo.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\Scheducation\Scheducation.projitems" Label="Shared" />
 </Project>
