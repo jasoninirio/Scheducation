@@ -6,6 +6,8 @@ import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+
+// Used to display calendar on calendar activity page, interactable.
 public class CalendarActivity extends AppCompatActivity {
 
     @Override

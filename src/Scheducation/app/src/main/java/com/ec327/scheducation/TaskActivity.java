@@ -27,6 +27,7 @@ public class TaskActivity extends AppCompatActivity {
 
     public static final String TAG = "TaskActivity";
 
+    //Still multiple things to work on this activity relating to storage of notes/tasks
     // t<var name> = Task related variables
     private TaskDbHelper tHelper;
     private ListView tTaskListView;
