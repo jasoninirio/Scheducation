@@ -17,7 +17,3 @@ The app will be developed in Swift code and Cocoa Frameworks, an objective-C fra
 Originally the group planned to develop the app solely in Swift, but due to issues with access to XCode, the group decided to also develop in Java. 
 
 The app will be developed in Java and Android Studio, an objective-C framework that focuses on object-oriented programming (OOP). Most of the group member use laptops with Windows 10, and Apple does not provide XCode with support for Windows. Due to this, the group decided to pivot and also develop in Java using Android Studio.
-
-
-## Getting Started
-[ how to "build" ]
